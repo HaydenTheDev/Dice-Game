@@ -1,0 +1,41 @@
+.game{
+  padding: 2% 5% 5% 5%;
+}
+
+.top{
+  text-align: center;
+  font-size: 3rem;
+  font-family: 'Courgette', cursive;
+  color:#9ea9f0;
+
+}
+
+.container{
+  text-align: center;
+  padding: 2%;
+}
+
+.dice {
+  font-family: 'Courgette', cursive;
+  color: #9ea9f0;
+  text-size:1.5rem;
+  text-align: center;
+  display: inline-block;
+}
+
+.dice-images{
+padding: 0 2% 0;
+width: 60%;
+}
+
+.bottom{
+  text-align: center;
+  padding-top: 3%;
+  font-size: 1.5rem;
+  color: #9ea9f0;
+  font-family: 'Courgette', cursive;
+}
+
+body{
+  background-color: #553c8b;
+}
